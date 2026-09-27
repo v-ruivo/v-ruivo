@@ -26,7 +26,7 @@
       <strong>Founder and Developer</strong><br />
       <a href="https://fltly.com">Fltly</a><br />
       <small>August 2026 - Present</small><br /><br />
-      I founded Fltly and develop its aviation-management tools, community features, and web platform.
+      I founded Fltly and handle its UI/UX and most of its infrastructure while overseeing the project.
     </td>
   </tr>
   <tr>
